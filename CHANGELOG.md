@@ -1,5 +1,14 @@
 # Changelog
 
+## 1.0.0 (2023-07-05)
+
+
+### Bug Fixes
+
+* added Accept Encoding gzip ([fcb756c](https://github.com/zuzanawangle/buttercms-js/commit/fcb756c68c657b0b3275ca2172666bc6980fb0d9))
+* change to gzip ([69f386e](https://github.com/zuzanawangle/buttercms-js/commit/69f386e9073a0c369ea754e3d1017b93b5881ab1))
+* Detect server side and client side js when using library ([32cdcde](https://github.com/zuzanawangle/buttercms-js/commit/32cdcde338e018c9b674071dce779fd555cc3b0b))
+
 ## 1.2.12 (May 1st, 2023)
 
 ### Updated
