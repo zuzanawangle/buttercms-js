@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.4.0](https://github.com/zuzanawangle/buttercms-js/compare/v1.3.0...v1.4.0) (2023-07-18)
+
+
+### Features
+
+* specify versions ([ff1a813](https://github.com/zuzanawangle/buttercms-js/commit/ff1a81309ebe7177a30dd2d6da94940904399db1))
+
 ## [1.3.0](https://github.com/zuzanawangle/buttercms-js/compare/v1.2.12...v1.3.0) (2023-07-07)
 
 
