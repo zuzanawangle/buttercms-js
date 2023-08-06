@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.4.1](https://github.com/zuzanawangle/buttercms-js/compare/v1.4.0...v1.4.1) (2023-08-06)
+
+
+### Bug Fixes
+
+* contains ([411cbb9](https://github.com/zuzanawangle/buttercms-js/commit/411cbb9dd3ee51ab5d614cc4fcfc401789858c88))
+
 ## [1.4.0](https://github.com/zuzanawangle/buttercms-js/compare/v1.3.0...v1.4.0) (2023-07-18)
 
 
